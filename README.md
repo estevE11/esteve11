@@ -6,6 +6,6 @@
 	<br>
 	<img style="margin:auto" src="https://github-readme-stats.vercel.app/api?username=esteve11&show_icons=true&locale=en&theme=dark" alt="esteve11 stats" width="410" />
 	<img style="margin:auto" src="https://streak-stats.demolab.com?user=esteve11&theme=dark" alt="esteve11 stats" width="435" />
-	<img style="margin:auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=esteve" alt="esteve11 stats" width="435" />
+	<!--<img style="margin:auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=esteve" alt="esteve11 stats" width="435" />-->
 
 </p>
