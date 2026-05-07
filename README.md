@@ -9,3 +9,4 @@
  - ⏱️ [Shutdown scheduler](https://github.com/estevE11/sdscheduler/releases/latest): GUI shutdown scheduler for Windows
  - 🔪 [Where Is Global Elite?](https://whereisglobal.vercel.app/): Shows CS2 Elo equivalent to CS:GO Global Elite updated weekly (not updated anymore)
  - 🖥️ [PyOBSwitching](https://github.com/estevE11/pyobswitching): A simple plugin for OBS that switches to the scene containing the monitor your cursor is in.
+ - 🔍️ [drivezoom](https://github.com/estevE11/drivezoom): Chrome extension that makes Google Drive suit remember zoom level from your past session.
