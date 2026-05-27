@@ -8,6 +8,7 @@
  - 🔍️ [drivezoom](https://github.com/estevE11/drivezoom): Chrome extension that makes Google Drive suit remember zoom level from your past session.
  - 📟 [Slurm-Top](https://github.com/estevE11/sktop): CLI for managing and inspecting SLURM jobs in real time (htop for SLURM)
  - 🦻 [Pyass](https://github.com/estevE11/pyass): Peass Metrics library port to Python
+ - 🧩 [csTimer Stats](https://github.com/estevE11/cstimer-stats): A comprehensive, web app for analyzing speedcubing solve data from [csTimer](cstimer.net) exports.
  - ⏱️ [Shutdown scheduler](https://github.com/estevE11/sdscheduler/releases/latest): GUI shutdown scheduler for Windows
  - 🌎️ [Where Is Global Elite?](https://whereisglobal.vercel.app/): Shows CS2 Elo equivalent to CS:GO Global Elite updated weekly (not updated anymore)
  - 🖥️ [PyOBSwitching](https://github.com/estevE11/pyobswitching): A simple plugin for OBS that switches to the scene containing the monitor your cursor is in.
