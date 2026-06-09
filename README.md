@@ -4,6 +4,7 @@
  - 🤾 [Transformer-Based Temporal Modeling for Handball Action Recognition](https://www.linkedin.com/in/roger-esteve-sanchez-12a265175/#:~:text=Projects-,Bachelor%E2%80%99s%20Thesis%3A%20Transformer%2DBased%20Temporal%20Modeling%20for%20Handball%20Action%20Recognition,-Bachelor%E2%80%99s%20Thesis%3A%20Transformer): Deep learning pipeline for video-based handball action recognition.
 
 ### Recent Projects
+ - 💻 [Ghost Monitor](https://github.com/estevE11/ghostmonitor): CLI for casting a virtual display to Android tablet to use as secondary monitor.
  - 📝 [eztick](https://github.com/estevE11/eztick): Keyboard-driven terminal client for managing TickTick inbox tasks fast.
  - 🐛 [PKMNWordle](https://pkmn-wordle.vercel.app/): Pokémon Wordle with offline, daily, and multiplayer modes (turns, fewest attempts, time attack...)
  - 🔍️ [drivezoom](https://github.com/estevE11/drivezoom): Chrome extension that makes Google Drive suit remember zoom level from your past session.
