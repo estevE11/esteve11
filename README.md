@@ -4,6 +4,7 @@
  - 🤾 [Transformer-Based Temporal Modeling for Handball Action Recognition](https://www.linkedin.com/in/roger-esteve-sanchez-12a265175/#:~:text=Projects-,Bachelor%E2%80%99s%20Thesis%3A%20Transformer%2DBased%20Temporal%20Modeling%20for%20Handball%20Action%20Recognition,-Bachelor%E2%80%99s%20Thesis%3A%20Transformer): Deep learning pipeline for video-based handball action recognition.
 
 ### Recent Projects
+ - 📜 [Test de Catalanitat](https://test-catalanitat.vercel.app/): Unofficial expert-level Catalan identity quiz with negative scoring, 25 questions across 5 sections, and shareable results.
  - 🥊 [ufc-elo](https://github.com/estevE11/ufc-elo): Custom UFC Elo engine for pound-for-pound and divisional rankings, with GOAT case studies.
  - 💻 [Ghost Monitor](https://github.com/estevE11/ghostmonitor): CLI for casting a virtual display to Android tablet to use as secondary monitor.
  - 📝 [eztick](https://github.com/estevE11/eztick): Keyboard-driven terminal client for managing TickTick inbox tasks fast.
