@@ -1,5 +1,8 @@
 <a href="https://www.linkedin.com/in/roger-esteve-sanchez-12a265175/">👨🏻‍🎓 **LinkedIn**</a>
 
+### Publications
+ - [Deep learning based analysis of spontaneous speech for diagnostic classification and biomarker prediction in Alzheimer’s disease and primary progressive aphasia](https://www.isca-archive.org/odyssey_2026/esteve26_odyssey.pdf): Using Deep Learning for early detection of Dementia Diseases
+
 ### Bachelor's Thesis 
  - 🤾 [Transformer-Based Temporal Modeling for Handball Action Recognition](https://www.linkedin.com/in/roger-esteve-sanchez-12a265175/#:~:text=Projects-,Bachelor%E2%80%99s%20Thesis%3A%20Transformer%2DBased%20Temporal%20Modeling%20for%20Handball%20Action%20Recognition,-Bachelor%E2%80%99s%20Thesis%3A%20Transformer): Deep learning pipeline for video-based handball action recognition.
 
