@@ -7,6 +7,7 @@
  - 🤾 [Transformer-Based Temporal Modeling for Handball Action Recognition](https://www.linkedin.com/in/roger-esteve-sanchez-12a265175/#:~:text=Projects-,Bachelor%E2%80%99s%20Thesis%3A%20Transformer%2DBased%20Temporal%20Modeling%20for%20Handball%20Action%20Recognition,-Bachelor%E2%80%99s%20Thesis%3A%20Transformer): Deep learning pipeline for video-based handball action recognition.
 
 ### Recent Projects
+ - 🎛️ [UniConvert](https://github.com/estevE11/uniconvert): Handy local-only file converter for images, audio, and video.
  - 🎙️ [FastScribe](https://github.com/estevE11/fastscribe): Local, offline audio transcription desktop app with drag-and-drop and live progress.
  - 📜 [Test de Catalanitat](https://test-catalanitat.vercel.app/): Unofficial expert-level Catalan identity quiz.
  - 🥊 [ufc-elo](https://github.com/estevE11/ufc-elo): Custom UFC Elo engine for pound-for-pound and divisional rankings, with GOAT case studies.
