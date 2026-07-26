@@ -8,7 +8,7 @@
 
 ### Recent Projects
  - 🎛️ [UniConvert](https://github.com/estevE11/uniconvert): Handy local-only file converter for images, audio, and video.
- - 🎙️ [FastScribe](https://github.com/estevE11/fastscribe): Local, offline audio transcription desktop app with drag-and-drop and live progress.
+ - 🎙️ [FastScribe](https://github.com/estevE11/fastscribe): Local, offline audio transcription desktop app.
  - 📜 [Test de Catalanitat](https://test-catalanitat.vercel.app/): Unofficial expert-level Catalan identity quiz.
  - 🥊 [ufc-elo](https://github.com/estevE11/ufc-elo): Custom UFC Elo engine for pound-for-pound and divisional rankings, with GOAT case studies.
  - 💻 [Ghost Monitor](https://github.com/estevE11/ghostmonitor): CLI for casting a virtual display to Android tablet to use as secondary monitor.
